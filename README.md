@@ -1,11 +1,13 @@
 # Introduction
-ModeS Viewer is a simple viewer for the ModeS Go library. It has the ability to connect to either and ADSBSpy device or
+ModeS Viewer is a simple viewer for the ModeS Go library (https://github.com/twuillemin/modes). It has the ability to connect to either and ADSBSpy device or
 replay previously saved data from a text file.
 
 From the data a simple web page is displaying the plane.
 
 # Status
 The application is currently in a very rough / early state, but at least it should working.
+
+![screenshot v0.1.0](https://raw.githubusercontent.com/twuillemin/modes-viewer/master/doc/pics/screenshot-v0.1.0.png)
 
 # Usage
 ## Run application
